@@ -19,7 +19,7 @@ This repository contains a partial replication of the ProxyLM methodology for pr
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/eaguilar02/cs421_replication_project.git 
 cd paper-replication-results
 
 # Install dependencies
