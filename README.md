@@ -60,9 +60,8 @@ paper-replication-results/
 ├── code/
 │   └── Research_Project_PaperReplication.py  # Main implementation
 ├── data/
-│   └── meta_features_paper_replication.csv   # Results (24 examples, 19 features)
-└── analysis/
-    └── COMPREHENSIVE_ANALYSIS.md         # Detailed analysis and paper comparison
+   └── meta_features_paper_replication.csv   # Results (24 examples, 19 features)
+   
 ```
 
 ---
@@ -104,10 +103,6 @@ Following the paper's methodology:
 **Supporting Features:**
 - Source/target vocab sizes, sentence lengths
 - Proxy BLEU scores, language metadata
-
-See `analysis/COMPREHENSIVE_ANALYSIS.md` for detailed feature descriptions.
-
----
 
 ## Dependencies
 
@@ -153,7 +148,6 @@ We could not replicate exactly due to:
 
 Our partial replication validates the methodology at smaller scale, which is standard practice.
 
-**See `analysis/COMPREHENSIVE_ANALYSIS.md` for detailed explanation and comparison with the paper.**
 
 ---
 
