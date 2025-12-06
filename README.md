@@ -60,9 +60,8 @@ paper-replication-results/
 ├── code/
 │   └── Research_Project_PaperReplication.py  # Main implementation
 ├── data/
-│   └── meta_features_paper_replication.csv   # Results (24 examples, 19 features)
-└── analysis/
-    └── comprehensive_analysis.md         # Detailed analysis and paper comparison
+    └── meta_features_paper_replication.csv   # Results (24 examples, 19 features)
+
 ```
 
 ---
