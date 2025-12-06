@@ -20,7 +20,7 @@ This repository contains a partial replication of the ProxyLM methodology for pr
 ```bash
 # Clone the repository
 git clone 
-cd paper-replication-results
+cd cs421_replication_project
 
 # Install dependencies
 pip install -r requirements.txt
